@@ -4,3 +4,4 @@ echo row
 echo your
 echo boat
 echo gently 
+sed -i -e 's/boat/car/g' test.txt 
