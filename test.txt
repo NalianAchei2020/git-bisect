@@ -6,3 +6,4 @@ echo boat
 echo gently 
 sed -i -e 's/boat/car/g' test.txt 
 echo down
+echo the 
